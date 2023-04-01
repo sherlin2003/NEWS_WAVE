@@ -16,4 +16,3 @@ You need to create a [News API](https://newsapi.org/) key and add it to the stri
 - API: News API
 - Arthitecture: MVVM
 - Programming Language: Java
-- Third Party Libraries: Retrofit, Glide, ButterKnife, Gson
